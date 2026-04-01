@@ -1,0 +1,370 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto';
+}
+.navBar{
+width: 1440px;
+height: 88px;
+border-bottom-width: 1px;
+
+padding-top: 16px;
+padding-right: 160px;
+padding-bottom: 16px;
+padding-left: 160px;
+border-bottom: 1px solid #B5B5B5;
+img{
+  width: 65.39956665039062px;
+height: 22.87200164794922px;
+
+}
+.input{
+    width: 373px;
+height: 57px;
+
+img{
+  width: 24px;
+height: 24px;
+left:16px;
+
+  }
+
+  input{
+  width: 372px;
+height: 56px;
+gap: 8px;
+border-radius: 8px;
+padding-left:  48px;
+padding-right:  48px;
+background-color: #F5F5F5;
+border:none;
+outline:none;
+
+}
+
+}
+.links{
+  width: 354px;
+height: 19px;
+gap: 52px;
+a{
+font-family: 'Roboto';
+font-weight: 500;
+font-style: Medium;
+font-size: 16px;
+color: rgba(0, 0, 0, 0.3);
+text-decoration: none;
+
+line-height: 100%;
+letter-spacing: 0%;
+
+
+}
+
+
+
+}
+.icons{
+  width: 144px;
+height: 32px;
+gap: 24px;
+a{
+img{
+  height: 24px;
+  width: 24px;
+
+border-width: 1.5px;
+
+}
+}
+
+
+}
+
+
+}
+.upper{
+
+  width: 1440px;
+height: 596px;
+padding:40px 160px;
+
+
+
+
+.iphonePng{
+
+height: 516px;
+border-radius: 6px;
+border-width: 1px;
+
+}
+
+aside{
+  margin-left: 48px;
+  h1{
+
+font-weight: 700;
+font-style: Bold;
+font-size: 40px;
+
+line-height: 40px;
+letter-spacing: 0%;
+margin-bottom: 24px;
+  }
+  .prices{
+    padding: 8px 0px;
+    margin-bottom: 16px;
+    #p1{
+
+font-weight: 500;
+font-style: normal;
+font-size: 32px;
+
+line-height: 48px;
+letter-spacing: 3%;
+
+    }
+    #p2{
+width: 425px;
+height: 32px;
+
+font-weight: 400;
+font-style: Regular;
+font-size: 24px;
+
+line-height: 32px;
+letter-spacing: 3%;
+vertical-align: bottom;
+text-decoration: line-through;
+color: #A0A0A0;
+margin-left: 16px;
+
+
+    }
+  }
+
+.description{
+  width: 536px;
+height: 72px;
+margin-bottom: 32px;
+color: #6C6C6C;
+
+}
+
+.buttons{
+  margin-bottom: 32px;
+  .whiteBtn{
+    width: 260px;
+height: 56px;
+min-width: 136px;
+padding-top: 16px;
+padding-right: 56px;
+padding-bottom: 16px;
+padding-left: 56px;
+gap: 8px;
+background-color: #FFFFFF;
+
+border-radius: 6px;
+border-width: 1px;
+
+  }
+
+}
+
+.details{
+  width: 536px;
+height: 56px;
+gap: 32px;
+
+
+  img{
+    width: 157.3333282470703px;
+height: 56px;
+
+
+border-radius: 8px;
+
+  }
+}
+
+
+}
+
+}
+
+.lower{
+width: 1440px;
+height: 514px;
+  padding: 40px 160px;
+gap: 32px;
+h3{
+  width: 185px;
+height: 32px;
+
+font-weight: 500;
+
+font-size: 24px;
+margin-bottom: 32px;
+
+
+
+
+}
+.products{
+  .Product{
+    width: 268px;
+height: 370px;
+min-width: 200px;
+padding-top: 24px;
+padding-right: 16px;
+padding-bottom: 24px;
+padding-left: 16px;
+text-align: left !important;
+
+border-radius: 9px;
+background-color: #F6F6F6;
+
+    img{
+      width: 236px;
+height: 160px;
+margin-bottom: 16px;
+border-radius: 6px;
+border-width: 1px;
+
+    }
+
+    
+  }
+}
+
+
+}
+
+.blackBtn{
+width: 260px;
+height: 56px;
+min-width: 136px;
+padding-top: 16px;
+padding-right: 56px;
+padding-bottom: 16px;
+padding-left: 56px;
+background-color: #000000;
+
+color: #FFFFFF;
+border-radius: 6px;
+border:none;
+
+  }
+
+footer{
+  background-color: #121212;
+  width: 100%;
+height: 504px;
+padding-top: 104px;
+padding-right: 160px;
+padding-bottom: 104px;
+padding-left: 160px;
+gap: 24px;
+.mainFoot{
+.leftSide{
+  img{
+
+  width: 65.39956665039062px;
+height: 22.87200164794922px;
+
+
+
+}
+p{
+  margin-top: 24px;
+  width: 384px;
+height: 48px;
+
+font-weight: 500;
+
+font-size: 14px;
+
+line-height: 171%;
+letter-spacing: 0%;
+color: #CFCFCF;
+
+
+}
+
+
+}
+
+.mid{
+  width: 295.5px;
+height: 256px;
+gap: 8px;
+
+
+  margin-left: 113px;
+  p{
+    color: #FFFFFF;
+    width: 62px;
+height: 16px;
+
+font-weight: 600;
+font-style: SemiBold;
+font-size: 16px;
+  }
+  a{
+    color: #CFCFCF;
+  }
+}
+
+.rightSide{
+  width: 295.5px;
+height: 256px;
+gap: 8px;
+
+
+  margin-left: 32px;
+    p{
+    color: #FFFFFF;
+width: 169px;
+height: 16px;
+
+
+font-weight: 600;
+font-style: SemiBold;
+font-size: 16px;
+  }
+  a{
+    color: #CFCFCF;
+  }
+}
+
+}
+
+.icons{
+  margin-top: 24px;
+
+  width: 173px;
+height: 16px;
+justify-content: space-between;
+
+
+  img{
+    width: 16px;
+height: 16px;
+
+
+  }
+}
+
+
+
+
+
+
+
+}
